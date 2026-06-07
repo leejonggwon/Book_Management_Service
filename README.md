@@ -1,7 +1,7 @@
 ## 1. 서비스소개 
 ### 서비스명
-▪ 스프링(Spring) 프레임워크와 MyBatis 기반으로 개발된 도서관리시스템 웹사이트
-▪ 도서관리시스템(Book Management System)
+▪ 스프링(Spring) 프레임워크와 MyBatis 기반으로 개발된 도서관리시스템 웹사이트 <br>
+▪ 도서관리시스템(Book Management System) <br>
 
 ### 서비스설명
 ▪ 본 프로젝트는 스프링(Spring) 프레임워크와 MyBatis 기반으로 개발된 도서관리시스템 웹사이트 입니다. <br>
