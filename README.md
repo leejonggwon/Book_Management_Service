@@ -1,10 +1,10 @@
 ## 1. 서비스소개 
 ### 1-1. 서비스명
--  Spring Framework와 MyBatis 기반으로 개발된 도서관리시스템 웹사이트 <br>
+-  Spring Framework와 MyBatis 기반의 비동기 통신 도서관리시스템 웹사이트 <br>
 -  도서관리시스템(Book Management System) <br>
 
 ### 1-2. 서비스설명
--  본 프로젝트는 Spring Framework와 MyBatis 기반으로 개발된 도서관리시스템 웹사이트 입니다. <br>
+-  본 프로젝트는 Spring Framework와 MyBatis 기반의 비동기 통신 도서관리시스템 웹사이트입니다. <br>
 -  도서의 등록, 조회, 수정, 삭제(CRUD) 기능을 제공하며 비동기 통신(AJAX)을 통해 실시간으로 목록을 갱신함으로 사용자 경험을 향상시켰습니다. <br>
 -  보유 도서를 효율적으로 관리하기 위한 웹 애플리케이션으로 관리자는 JSP 기반의 직관적인 UI를 통해 웹 화면에서 도서 정보를 손쉽게 관리할 수 있도록 하는 것을 목표로 합니다.<br>
 
