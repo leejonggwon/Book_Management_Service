@@ -36,7 +36,7 @@
 
 ## 4. DataBase E-R Diagram
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/304ca394-8ae4-484b-8b0b-309718033ba7" width=40% />
+  <img src="https://github.com/user-attachments/assets/304ca394-8ae4-484b-8b0b-309718033ba7" width=30% />
   <br>
   [E-R Diagram]
 </p>
@@ -45,7 +45,7 @@
 
 ## 5. 기능구조도
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8bddfe88-dde1-4a2b-9f7e-5987aedfc96d" width=40% />
+  <img src="https://github.com/user-attachments/assets/8bddfe88-dde1-4a2b-9f7e-5987aedfc96d" width=50% />
   <br>
   [기능구조도]
 </p>
